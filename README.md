@@ -11,9 +11,9 @@ this project will help anyone struggling with planning and it will make the trac
 a simple manner for the userto the traveller to give him/her a peaceful mind 
 and enjoy your trip to the most.
 
-## for more programming details please look the pdf file.
+### for more programming details please look the pdf file.
 
-### instructions for run the program:
+## instructions for run the program:
 
 1- you should have a MySQL workbench installed in your device.<br>
 if you do not have it, you can download it from here:<br>
