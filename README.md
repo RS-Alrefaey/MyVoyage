@@ -1,5 +1,5 @@
 # MyVoyage
-#### this is the project of advanced programming course in UQU , 2022 fall. <br>
+#### this is the project of advanced programming course in UQU , 2022 fall.
 this project was done under supervision of the instructor : Bushra Al-Gotaiml. <br>
 
 <br>
