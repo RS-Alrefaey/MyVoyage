@@ -1,5 +1,5 @@
 # MyVoyage
-this is the project of advanced programming course in UQU , 2022 fall.
+####this is the project of advanced programming course in UQU , 2022 fall.
 
 this project could be an organizational tool the helps anyone struggling with planning trips. 
 because it will be with the user hand by hand in planning phase from the first step which 
@@ -13,12 +13,11 @@ and enjoy your trip to the most.
 
 for more programming details please look the pdf file.
 
-instructions for run the program:
+###instructions for run the program:
 
 1- you should have a MySQL workbench installed in your device.<br>
 if you do not have it, you can download it from here:<br>
 https://dev.mysql.com/downloads/workbench/ .<br>
-<br>
 2- open the workbench and create a schema called (my_voyage).<br>
 3- download the database (.zip) tables and import them into your schema.<br>
 4- download the project (.zip) and open the netbeans and import the project.<br>
