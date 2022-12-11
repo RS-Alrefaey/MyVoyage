@@ -22,6 +22,8 @@ https://dev.mysql.com/downloads/workbench/ .<br>
 3- download the database (ProjectDB.sql) tables and import them into your schema.<br>
 4- download the project (MyVoyageFinalVersion.zip) and open the netbeans and import the project.<br>
 5- change the path of the database connector (mysql connector with jar extension).<br>
-6- run the code. <br>
+6- please change the username,password and schema informations in the hibernate.cfg.xml file which <br>
+is under my.voyage folder in the project. <br>
+7- run the code. <br>
 <br>
-7- enjoy planning and have a safe and nice trips :) .
+8- enjoy planning and have a safe and nice trips :) .
