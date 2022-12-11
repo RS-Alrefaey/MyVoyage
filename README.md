@@ -15,7 +15,7 @@ for more programming details please look the pdf file.
 
 instructions for run the program:
 
-1- you should have a MySQL workbench installed in your device.__
+1- you should have a MySQL workbench installed in your device.<br>
 if you do not have it, you can download it from here:__
 https://dev.mysql.com/downloads/workbench/ .__
 
