@@ -26,3 +26,5 @@ https://dev.mysql.com/downloads/workbench/ .<br>
 is under my.voyage folder in the project. <br>
 7- run the code. <br>
 8- enjoy planning and have a safe and nice trips :) .
+<br>
+this project was done under supervision of the instructor : Bushra Al-Gotaiml.
