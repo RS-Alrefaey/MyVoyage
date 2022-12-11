@@ -11,7 +11,7 @@ this project will help anyone struggling with planning and it will make the trac
 a simple manner for the userto the traveller to give him/her a peaceful mind 
 and enjoy your trip to the most.
 
-### <u> for more programming details please look the pdf file. <u>
+### <ins> for more programming details please look the pdf file. <ins>
 
 ## instructions for run the program:
 
