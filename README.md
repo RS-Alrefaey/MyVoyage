@@ -1,5 +1,8 @@
 # MyVoyage
-#### this is the project of advanced programming course in UQU , 2022 fall.
+#### this is the project of advanced programming course in UQU , 2022 fall. <br>
+this project was done under supervision of the instructor : Bushra Al-Gotaiml. <br>
+
+<br>
 
 this project could be an organizational tool the helps anyone struggling with planning trips. 
 because it will be with the user hand by hand in planning phase from the first step which 
@@ -27,4 +30,3 @@ is under my.voyage folder in the project. <br>
 7- run the code. <br>
 8- enjoy planning and have a safe and nice trips :) .
 <br>
-this project was done under supervision of the instructor : Bushra Al-Gotaiml.
