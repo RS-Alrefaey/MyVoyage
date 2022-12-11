@@ -19,7 +19,7 @@ for more programming details please look the pdf file.
 if you do not have it, you can download it from here:<br>
 https://dev.mysql.com/downloads/workbench/ .<br>
 2- open the workbench and create a schema called (my_voyage).<br>
-3- download the database (.zip) tables and import them into your schema.<br>
+3- download the database (ProjectDB.sql) tables and import them into your schema.<br>
 4- download the project (MyVoyageFinalVersion.zip) and open the netbeans and import the project.<br>
 5- change the path of the database connector (mysql connector with jar extension).<br>
 6- run the code. <br>
