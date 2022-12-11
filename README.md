@@ -15,14 +15,14 @@ for more programming details please look the pdf file.
 
 instructions for run the program:
 
-1- you should have a MySQL workbench installed in your device.
-if you do not have it, you can download it from here:
-https://dev.mysql.com/downloads/workbench/ .
+1- you should have a MySQL workbench installed in your device.__
+if you do not have it, you can download it from here:__
+https://dev.mysql.com/downloads/workbench/ .__
 
-2- open the workbench and create a schema called (my_voyage).
-3- download the database (.zip) tables and import them into your schema.
-4- download the project (.zip) and open the netbeans and import the project.
-5- change the path of the database connector (mysql connector with jar extension).
-6- run the code. 
+2- open the workbench and create a schema called (my_voyage).__
+3- download the database (.zip) tables and import them into your schema.__
+4- download the project (.zip) and open the netbeans and import the project.__
+5- change the path of the database connector (mysql connector with jar extension).__
+6- run the code. __
 
-7- enjoy planning and have a safe and nice trips :) .
+7- enjoy planning and have a safe and nice trips :) .__
