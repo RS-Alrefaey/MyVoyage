@@ -4,11 +4,13 @@ this project was done under supervision of the instructor : Bushra Al-Gotaiml. <
 
 <br>
 
-this project could be an organizational tool the helps anyone struggling with planning trips. 
-because it will be with the user hand by hand in planning phase from the first step which 
-is define the target city and define what are the locations the user wants to visit 
-in this city. and it comes with a nice feature which is tracking the budget 
-and dates in the whole trip.
+the project has been built using Java and MySQL workbench in the backend <br>
+and scenebuilder JavaFX for the front end. <br>
+this project is considered an organizational tool that helps anyone struggling <br> 
+with planning trips. It will be with the user hand by hand in the planning phase <br> 
+from the first step which is define the target city and the locations the user wants to visit.<br>
+And it comes with a nice feature which is tracking the budget and dates for the whole trip.
+
 
 this project will help anyone struggling with planning and it will make the tracking 
 a simple manner for the userto the traveller to give him/her a peaceful mind 
